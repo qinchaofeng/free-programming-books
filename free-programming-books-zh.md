@@ -171,7 +171,8 @@
 * [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
 * [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
 * [面向程序员的数据挖掘指南](http://dataminingguide.books.yourtion.com)
-
+* [Zeppelin学习实践](https://www.gitbook.com/book/qinchaofeng/zeppelin-learning/)
+* [Vertica学习实践](http://blog.csdn.net/column/details/vertica.html)
 
 ### 操作系统
 
